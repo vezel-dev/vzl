@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=https://json.schemastore.org/github-workflow.json
+name: Yearly Report Reminder
+on:
+    schedule:
+        - cron: 1 0 1 1 *
+defaults:
+    run:
+        shell: bash
+jobs:
+    yearly_report_reminder:
+        if: github.repository == 'vezel-dev/vzl'
+        runs-on: ubuntu-latest
+        steps:
+            - name: Retrieve date/time
+              id: time
+              run: |
+                  echo ::set-output name=last_year::$(expr $(date +%Y) - 1)
+                  echo ::set-output name=current_year::$(date +%Y)
+            - name: Create GitHub issue
+              uses: imjohnbo/issue-bot@v3.3.6
+              with:
+                  title: File yearly tax report for ${{ steps.time.outputs.last_year }}
+                  body: |
+                      It is time to file the yearly tax report for ${{ steps.time.outputs.last_year }}.
+
+                      The deadline is July 1, ${{ steps.time.outputs.current_year }}.
+                  labels: "area: finances, type: housekeeping, state: approved"
+                  assignees: alexrp

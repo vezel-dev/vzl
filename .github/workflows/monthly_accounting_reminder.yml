@@ -1,0 +1,28 @@
+# yaml-language-server: $schema=https://json.schemastore.org/github-workflow.json
+name: Monthly Accounting Reminder
+on:
+    schedule:
+        - cron: 1 0 28 * *
+defaults:
+    run:
+        shell: bash
+jobs:
+    monthly_accounting_reminder:
+        if: github.repository == 'vezel-dev/vzl'
+        runs-on: ubuntu-latest
+        steps:
+            - name: Retrieve date/time
+              id: time
+              run: |
+                  echo ::set-output name=month::$(date +%B)
+                  echo ::set-output name=year::$(date +%Y)
+            - name: Create GitHub issue
+              uses: imjohnbo/issue-bot@v3.3.6
+              with:
+                  title: Perform monthly accounting for ${{ steps.time.outputs.month }}, ${{ steps.time.outputs.year }}
+                  body: |
+                      It is almost time to perform monthly bookkeeping for ${{ steps.time.outputs.month }}, ${{ steps.time.outputs.year }}.
+
+                      Remember to perform rolling tax corrections for new donations/purchases.
+                  labels: "area: finances, type: housekeeping, state: approved"
+                  assignees: alexrp
