@@ -1,5 +1,7 @@
 <!-- markdownlint-disable MD041 -->
 
+# Vezel
+
 **Vezel** ("fezel") is a non-profit software organization founded in March of
 2022 with a focus on creating and maintaining delightful developer-oriented
 software such as libraries, build tooling, and compilers. All of our software is
