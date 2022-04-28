@@ -1,5 +1,7 @@
 # Summary
 
+* [Home](README.md)
+
 ## Organization
 
 * [Services](organization/services.md)
