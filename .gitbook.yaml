@@ -1,4 +1,4 @@
 root: doc
 structure:
-    readme: index.md
+    readme: README.md
     summary: toc.md
