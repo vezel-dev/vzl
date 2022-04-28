@@ -1,6 +1,6 @@
-# Summary
+# Table of Contents
 
-* [Home](README.md)
+* [Home](index.md)
 
 ## Organization
 
