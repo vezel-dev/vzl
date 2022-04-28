@@ -1,5 +1,3 @@
-<!-- markdownlint-disable MD041 -->
-
 # Vezel
 
 **Vezel** ("fezel") is a non-profit software organization founded in March of
