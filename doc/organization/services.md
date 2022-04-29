@@ -1,22 +1,23 @@
 # Services
 
-We use the following services:
+Vezel uses the following services:
 
-* [Cloudflare](https://dash.cloudflare.com) (Free) for DNS management, DDoS
+* [Cloudflare (Free)](https://dash.cloudflare.com) for DNS management, DDoS
   protection, and delivery optimization.
-* [Dinero](https://app.dinero.dk) (Pro) for bookkeeping in compliance with
+* [Dinero (Pro)](https://app.dinero.dk) for bookkeeping in compliance with
   Danish law.
+* [Discord](https://discord.gg/wtzCfaX2Nj) for persistent instant messaging.
 * [Dynadot](https://www.dynadot.com/account) for domain name registration.
-* [GitBook](https://app.gitbook.com/o/P8o5dXt7bteWr6hK73oR/home) (Community) for
+* [GitBook (Community)](https://app.gitbook.com/o/P8o5dXt7bteWr6hK73oR/home) for
   documentation hosting.
-* [GitHub](https://github.com/vezel-dev) (Enterprise) for code and package
-  hosting, issue tracking, and automated builds.
-* [Google Workspace](https://mail.google.com/a/vezel.dev) (Business Starter) for
+* [GitHub (Enterprise)](https://github.com/vezel-dev) for code and package
+  hosting, issue tracking, discussion forums, and automated builds.
+* [Google Workspace (Business Starter)](https://mail.google.com/a/vezel.dev) for
   email and related services.
 * [Microsoft Azure](https://portal.azure.com) for hosting the code signing
   service.
-* [Open Collective](https://opencollective.com/vezel) (Independent Collective)
-  for transparent finances, donations, and payouts.
-* [PayPal](https://paypal.me/vezel) (Business) for processing donations and
+* [Open Collective (Independent Collective)](https://opencollective.com/vezel)
+  for transparent finances (expenses, donations, and payouts).
+* [PayPal (Business)](https://paypal.me/vezel) for processing donations and
   payouts.
 * [Stripe](https://dashboard.stripe.com) for processing donations.

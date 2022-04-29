@@ -9,3 +9,6 @@ everyone can benefit from our work. **Vezel** is also incorporated as a
 non-profit in Denmark; this legal entity handles finances, services, and assets
 needed by the organization. Our finances are completely transparent on
 [Open Collective](https://opencollective.com/vezel/transactions).
+
+This is the home of our documentation, both for the organization itself and its
+various open source projects.
