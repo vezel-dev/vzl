@@ -12,5 +12,6 @@
 ## Projects
 
 * [Cathode](https://github.com/vezel-dev/cathode)
+* [Novadrop](https://github.com/vezel-dev/novadrop)
 * [Zig SDK](https://github.com/vezel-dev/zig-sdk)
 * [Zig Toolsets](https://github.com/vezel-dev/zig-toolsets)
