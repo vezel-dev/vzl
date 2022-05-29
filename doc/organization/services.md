@@ -19,6 +19,6 @@ Vezel uses the following services:
   service.
 * [Open Collective (Independent Collective)](https://opencollective.com/vezel)
   for transparent finances (expenses, donations, and payouts).
-* [PayPal (Business)](https://paypal.me/vezel) for processing donations and
+* [PayPal (Business)](https://paypal.me/vezeldev) for processing donations and
   payouts.
 * [Stripe](https://dashboard.stripe.com) for processing donations.
