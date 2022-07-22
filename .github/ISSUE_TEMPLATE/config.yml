@@ -1,0 +1,14 @@
+# yaml-language-server: $schema=https://json.schemastore.org/github-issue-config.json
+contact_links:
+  - name: Cathode
+    url: https://github.com/vezel-dev/cathode/issues/new/choose
+    about: Open an issue related to the Cathode project.
+  - name: Novadrop
+    url: https://github.com/vezel-dev/novadrop/issues/new/choose
+    about: Open an issue related to the Novadrop project.
+  - name: Ruptura
+    url: https://github.com/vezel-dev/ruptura/issues/new/choose
+    about: Open an issue related to the Ruptura project.
+  - name: Zig SDK
+    url: https://github.com/vezel-dev/zig-sdk/issues/new/choose
+    about: Open an issue related to the Zig SDK project.
