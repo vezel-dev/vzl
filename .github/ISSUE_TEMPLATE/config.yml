@@ -1,4 +1,5 @@
 # yaml-language-server: $schema=https://json.schemastore.org/github-issue-config.json
+blank_issues_enabled: true
 contact_links:
   - name: Cathode issue
     url: https://github.com/vezel-dev/cathode/issues/new/choose
