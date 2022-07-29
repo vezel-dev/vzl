@@ -9,7 +9,7 @@ defaults:
 jobs:
     yearly_report_reminder:
         if: github.repository == 'vezel-dev/vzl'
-        runs-on: ubuntu-latest
+        runs-on: ubuntu-22.04
         steps:
             - name: Retrieve date/time
               id: time
