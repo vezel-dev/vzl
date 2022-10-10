@@ -17,7 +17,7 @@ jobs:
                   echo ::set-output name=last_year::$(expr $(date +%Y) - 1)
                   echo ::set-output name=current_year::$(date +%Y)
             - name: Create GitHub issue
-              uses: imjohnbo/issue-bot@v3.4.0
+              uses: imjohnbo/issue-bot@v3.4.1
               with:
                   title: File yearly tax report for ${{ steps.time.outputs.last_year }}
                   body: |
