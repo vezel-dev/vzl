@@ -17,7 +17,7 @@ jobs:
                   echo ::set-output name=month::$(date +%B)
                   echo ::set-output name=year::$(date +%Y)
             - name: Create GitHub issue
-              uses: imjohnbo/issue-bot@v3.4.1
+              uses: imjohnbo/issue-bot@v3.4.2
               with:
                   title: Perform monthly accounting for ${{ steps.time.outputs.month }}, ${{ steps.time.outputs.year }}
                   body: |
