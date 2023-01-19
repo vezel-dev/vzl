@@ -2,7 +2,7 @@
 name: Yearly Report Reminder
 on:
     schedule:
-        - cron: 1 0 1 1 *
+        - cron: 1 0 1 3 *
 defaults:
     run:
         shell: bash
