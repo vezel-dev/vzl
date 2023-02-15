@@ -10,11 +10,11 @@ Vezel uses the following services:
 * [Dynadot](https://www.dynadot.com/account) for domain name registration.
 * [GitBook (Community)](https://app.gitbook.com/o/P8o5dXt7bteWr6hK73oR/home) for
   documentation hosting.
-* [GitHub (Enterprise)](https://github.com/vezel-dev) for code and package
-  hosting, issue tracking, discussion forums, and automated builds.
+* [GitHub (Team)](https://github.com/vezel-dev) for code and package hosting,
+  issue tracking, discussion forums, and automated builds.
 * [Google Workspace (Business Starter)](https://mail.google.com/a/vezel.dev) for
   email and related services.
-* [Lunar (Business)](https://www.lunar.app/dk/erhverv) for banking.
+* [Lunar (Business Solo)](https://www.lunar.app/dk/erhverv) for banking.
 * [Microsoft Azure](https://portal.azure.com) for hosting the code signing
   service.
 * [Open Collective (Independent Collective)](https://opencollective.com/vezel)
