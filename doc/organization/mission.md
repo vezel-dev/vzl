@@ -11,7 +11,5 @@ Among other minor tasks, Vezel handles the following:
 * Management and moderation of the official community areas of the organization.
 * Promotion of the organization's projects and technologies, and adoption
   thereof.
-* Registration and management of intellectual property related to the
-  organization's projects.
-* Fundraising for operating costs and project development for the organization
-  and corporation.
+* Fundraising for operational expenses and project development for the
+  organization.
