@@ -5,7 +5,6 @@
 ## Organization
 
 * [Mission](organization/mission.md)
-* [Incorporation](organization/incorporation.md)
 * [Finances](organization/finances.md)
 * [Services](organization/services.md)
 
