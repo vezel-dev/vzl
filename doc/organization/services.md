@@ -12,7 +12,7 @@ Vezel uses the following services:
   issue tracking, discussion forums, and automated builds.
 * [Google Workspace](https://mail.google.com/a/vezel.dev) for email and related
   services.
-* [Microsoft Azure](https://portal.azure.com) for hosting the code signing
-  service.
+* [Microsoft Azure](https://portal.azure.com) for publisher access to the Visual
+  Studio Marketplace.
 * [Open Collective](https://opencollective.com/vezel)
   for transparent finances (expenses, donations, and payouts).
