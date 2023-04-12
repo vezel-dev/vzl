@@ -2,6 +2,8 @@
 
 Vezel uses the following services:
 
+* [Azure DevOps](https://dev.azure.com/vezel) for publisher access to the Visual
+  Studio Marketplace.
 * [Cloudflare](https://dash.cloudflare.com) for DNS management, DDoS protection,
   and delivery optimization.
 * [Discord](https://discord.gg/wtzCfaX2Nj) for persistent instant messaging.
@@ -12,7 +14,5 @@ Vezel uses the following services:
   issue tracking, discussion forums, and automated builds.
 * [Google Workspace](https://mail.google.com/a/vezel.dev) for email and related
   services.
-* [Microsoft Azure](https://portal.azure.com) for publisher access to the Visual
-  Studio Marketplace.
 * [Open Collective](https://opencollective.com/vezel)
   for transparent finances (expenses, donations, and payouts).
