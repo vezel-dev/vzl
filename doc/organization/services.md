@@ -16,3 +16,7 @@ Vezel uses the following services:
   services.
 * [Open Collective](https://opencollective.com/vezel)
   for transparent finances (expenses, donations, and payouts).
+* [Open VSX](https://open-vsx.org/namespace/vezel) for publishing Visual Studio
+  Code extensions.
+* [Visual Studio Marketplace](https://marketplace.visualstudio.com/publishers/vezel)
+  for publishing Visual Studio and Visual Studio Code extensions.
