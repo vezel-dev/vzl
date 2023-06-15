@@ -12,6 +12,7 @@
 
 * [Cathode](https://docs.vezel.dev/cathode)
 * [Celerity](https://docs.vezel.dev/celerity)
+* [Minja](https://docs.vezel.dev/minja)
 * [Niru](https://docs.vezel.dev/niru)
 * [Novadrop](https://docs.vezel.dev/novadrop)
 * [Ruptura](https://docs.vezel.dev/ruptura)
