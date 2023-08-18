@@ -9,9 +9,6 @@ contact_links:
   - name: Minja issue
     url: https://github.com/vezel-dev/minja/issues/new/choose
     about: Open an issue related to the Minja project on the corresponding repository.
-  - name: Niru issue
-    url: https://github.com/vezel-dev/niru/issues/new/choose
-    about: Open an issue related to the Niru project on the corresponding repository.
   - name: Novadrop issue
     url: https://github.com/vezel-dev/novadrop/issues/new/choose
     about: Open an issue related to the Novadrop project on the corresponding repository.
