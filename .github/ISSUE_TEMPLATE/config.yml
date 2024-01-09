@@ -12,6 +12,9 @@ contact_links:
   - name: Ruptura issue
     url: https://github.com/vezel-dev/ruptura/issues/new/choose
     about: Open an issue related to the Ruptura project on the corresponding repository.
+  - name: TON issue
+    url: https://github.com/vezel-dev/ton/issues/new/choose
+    about: Open an issue related to the TON project on the corresponding repository.
   - name: Zig SDK issue
     url: https://github.com/vezel-dev/zig-sdk/issues/new/choose
     about: Open an issue related to the Zig SDK project on the corresponding repository.
