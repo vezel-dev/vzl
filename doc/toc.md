@@ -14,4 +14,5 @@
 * [Celerity](https://docs.vezel.dev/celerity)
 * [Novadrop](https://docs.vezel.dev/novadrop)
 * [Ruptura](https://docs.vezel.dev/ruptura)
+* [TON](https://docs.vezel.dev/ton)
 * [Zig SDK](https://docs.vezel.dev/zig-sdk)
