@@ -4,7 +4,7 @@
 2022 with a focus on creating and maintaining delightful developer-oriented
 software such as libraries, build tooling, and compilers. All of our software is
 open source and made available under the terms of the exceptionally liberal
-[Zero-Clause BSD](https://opensource.org/licenses/0BSD) license to ensure that
+[Zero-Clause BSD License](https://opensource.org/license/0bsd) to ensure that
 everyone can benefit from our work. Our finances are completely transparent on
 [Open Collective](https://opencollective.com/vezel/transactions).
 
