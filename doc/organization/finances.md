@@ -9,7 +9,7 @@ maximize profit. Revenue is spent strictly on the following:
 1. Funding maintainers of Vezel's open source projects.
 2. Sponsoring developers of third-party open source projects that Vezel's
    projects depend on.
-4. Operational costs for the organization (domain names, code signing, etc).
+3. Operational costs for the organization (domain names, code signing, etc).
 
 ## Donations
 

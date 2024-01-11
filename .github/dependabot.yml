@@ -2,6 +2,14 @@
 version: 2
 updates:
     - directory: /
+      package-ecosystem: github-actions
+      schedule:
+          interval: daily
+          timezone: Europe/Copenhagen
+          time: "12:00"
+      open-pull-requests-limit: 25
+      labels: []
+    - directory: /
       package-ecosystem: nuget
       schedule:
           interval: daily
