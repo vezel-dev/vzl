@@ -1,6 +1,8 @@
 {
   "files.exclude": {
     "out": true,
+    "**/.idea": true,
+    "**/.vs": true,
     "**/node_modules": true
   }
 }

@@ -1,2 +1,4 @@
 /out
+.idea
+.vs
 node_modules
