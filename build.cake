@@ -17,6 +17,9 @@ var doc = Context.Environment.WorkingDirectory.Combine("doc");
 Task("default")
     .IsDependentOn("build");
 
+Task("default-editor")
+    .IsDependentOn("build");
+
 Task("restore-doc")
     .Does(() => DoInDirectory(doc, () => NpmInstall()));
 
