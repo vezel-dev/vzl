@@ -6,6 +6,9 @@ contact_links:
   - name: Celerity issue
     url: https://github.com/vezel-dev/celerity/issues/new/choose
     about: Open an issue related to the Celerity project on the corresponding repository.
+  - name: Graf issue
+    url: https://github.com/vezel-dev/graf/issues/new/choose
+    about: Open an issue related to the Graf project on the corresponding repository.
   - name: Novadrop issue
     url: https://github.com/vezel-dev/novadrop/issues/new/choose
     about: Open an issue related to the Novadrop project on the corresponding repository.
