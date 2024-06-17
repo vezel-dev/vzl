@@ -14,9 +14,11 @@ Vezel uses the following services:
 * [Google Workspace](https://mail.google.com/a/vezel.dev) for email and related
   services.
 * [NuGet](https://www.nuget.org) for .NET release package hosting.
-* [Open Collective](https://opencollective.com/vezel)
-  for transparent finances (expenses, donations, and payouts).
+* [Open Collective](https://opencollective.com/vezel) for transparent finances
+  (expenses, donations, and payouts).
 * [Open VSX](https://open-vsx.org/namespace/vezel) for publishing Visual Studio
   Code extensions.
 * [Visual Studio Marketplace](https://marketplace.visualstudio.com/publishers/vezel)
   for publishing Visual Studio and Visual Studio Code extensions.
+* [Zulip](https://vezel.zulipchat.com) for persistent, organized instant
+  messaging.
