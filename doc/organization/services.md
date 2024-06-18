@@ -7,7 +7,7 @@ Vezel uses the following services:
 * [Cloudflare](https://dash.cloudflare.com) for domain name registration, DNS
   management, DDoS protection, and delivery optimization.
 * [Discord](https://discord.gg/wtzCfaX2Nj) for persistent instant messaging.
-* [GitBook](https://app.gitbook.com/o/P8o5dXt7bteWr6hK73oR/home) for
+* [GitBook](https://app.gitbook.com/o/P8o5dXt7bteWr6hK73oR/home) (sponsored) for
   documentation hosting.
 * [GitHub](https://github.com/vezel-dev) for code and nightly package hosting,
   issue tracking, discussion forums, and automated builds.
@@ -20,5 +20,5 @@ Vezel uses the following services:
   Code extensions.
 * [Visual Studio Marketplace](https://marketplace.visualstudio.com/publishers/vezel)
   for publishing Visual Studio and Visual Studio Code extensions.
-* [Zulip](https://vezel.zulipchat.com) for persistent, organized instant
-  messaging.
+* [Zulip](https://vezel.zulipchat.com) (sponsored) for persistent, organized
+  instant messaging.
