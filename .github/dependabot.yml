@@ -10,6 +10,15 @@ updates:
       time: "12:00"
     open-pull-requests-limit: 25
     labels: []
+  - package-ecosystem: npm
+    directories:
+      - /doc
+    schedule:
+      interval: daily
+      timezone: Europe/Copenhagen
+      time: "12:00"
+    open-pull-requests-limit: 25
+    labels: []
   - package-ecosystem: nuget
     directories:
       - /
