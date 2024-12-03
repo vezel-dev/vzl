@@ -9,8 +9,8 @@ Vezel uses the following services:
 * [Discord](https://discord.gg/wtzCfaX2Nj) for persistent instant messaging.
 * [GitBook](https://app.gitbook.com/o/P8o5dXt7bteWr6hK73oR/home) (sponsored) for
   documentation hosting.
-* [GitHub](https://github.com/vezel-dev) for code and nightly package hosting,
-  issue tracking, discussion forums, and automated builds.
+* [GitHub](https://github.com/vezel-dev) (sponsored) for code and nightly
+  package hosting, issue tracking, discussion forums, and automated builds.
 * [Google Workspace](https://mail.google.com/a/vezel.dev) for email and related
   services.
 * [NuGet](https://www.nuget.org) for .NET release package hosting.
