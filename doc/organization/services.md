@@ -7,12 +7,11 @@ Vezel uses the following services:
 * [Cloudflare](https://dash.cloudflare.com) for domain name registration, DNS
   management, DDoS protection, and delivery optimization.
 * [Discord](https://discord.gg/wtzCfaX2Nj) for persistent instant messaging.
+* [Fastmail](https://www.fastmail.com) for email and related services.
 * [GitBook](https://app.gitbook.com/o/P8o5dXt7bteWr6hK73oR/home) (sponsored) for
   documentation hosting.
 * [GitHub](https://github.com/vezel-dev) (sponsored) for code and nightly
   package hosting, issue tracking, discussion forums, and automated builds.
-* [Google Workspace](https://mail.google.com/a/vezel.dev) for email and related
-  services.
 * [NuGet](https://www.nuget.org) for .NET release package hosting.
 * [Open Collective](https://opencollective.com/vezel) for transparent finances
   (expenses, donations, and payouts).
