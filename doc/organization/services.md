@@ -6,6 +6,8 @@ Vezel uses the following services:
   Studio Marketplace.
 * [Cloudflare](https://dash.cloudflare.com) for domain name registration, DNS
   management, DDoS protection, and delivery optimization.
+* [Codeberg](https://codeberg.org) for code hosting, issue tracking, and
+  automated builds.
 * [Discord](https://discord.gg/wtzCfaX2Nj) for persistent instant messaging.
 * [Fastmail](https://www.fastmail.com) for email and related services.
 * [GitBook](https://app.gitbook.com/o/P8o5dXt7bteWr6hK73oR/home) (sponsored) for
