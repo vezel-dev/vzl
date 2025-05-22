@@ -2,8 +2,6 @@
 
 Vezel uses the following services:
 
-* [Azure DevOps](https://dev.azure.com/vezel) for publisher access to the Visual
-  Studio Marketplace.
 * [Cloudflare](https://dash.cloudflare.com) for domain name registration, DNS
   management, DDoS protection, and delivery optimization.
 * [Codeberg](https://codeberg.org/vezel) for code hosting, website hosting,
@@ -17,9 +15,5 @@ Vezel uses the following services:
 * [NuGet](https://www.nuget.org) for .NET release package hosting.
 * [Open Collective](https://opencollective.com/vezel) for transparent finances
   (expenses, donations, and payouts).
-* [Open VSX](https://open-vsx.org/namespace/vezel) for publishing Visual Studio
-  Code extensions.
-* [Visual Studio Marketplace](https://marketplace.visualstudio.com/publishers/vezel)
-  for publishing Visual Studio and Visual Studio Code extensions.
 * [Zulip](https://vezel.zulipchat.com) (sponsored) for persistent, organized
   instant messaging.
